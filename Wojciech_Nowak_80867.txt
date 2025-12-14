@@ -1,0 +1,5 @@
+Imię i nazwisko: Wojciech Nowak
+Numer albumu: 80867
+
+Jest to przykładowy plik utworzony w ramach zadania część 2 GitHub.
+
